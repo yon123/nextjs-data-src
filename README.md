@@ -1,2 +1,2 @@
 # nextjs-data-src
-vercel dummy data
+vercel dummy data for React.js
